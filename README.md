@@ -27,4 +27,4 @@ Install numpy with pip:
     
 Install scikit-learn:
     
-    pip install -U scikit-learn
+    pip install scikit-learn
