@@ -20,12 +20,7 @@ When conda asks you to proceed, type y:
 Activate the environment:
     
     conda activate myenv
-
-Install pip:
-
-   python get-pip.py
-   pip install numpy
-   
+    
 Install dependencies with pip:
 
     pip install numpy
