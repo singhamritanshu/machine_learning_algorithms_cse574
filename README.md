@@ -21,10 +21,13 @@ Activate the environment:
     
     conda activate myenv
 
-Install numpy with pip:
+Install pip:
+
+   python get-pip.py
+   pip install numpy
+   
+Install dependencies with pip:
 
     pip install numpy
-    
-Install scikit-learn:
-    
     pip install scikit-learn
+    python -m pip install -U matplotlib
